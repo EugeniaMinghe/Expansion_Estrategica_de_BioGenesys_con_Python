@@ -30,14 +30,13 @@ Se trabajó con Python a través de Visual Studio Code (VSC) usando Jupyter Note
 
 <h3 align="center">Conclusiones estratégicas</h3>
 Pico de contagio:
-1-	El mayor pico de contagio se observa a fines de 2021 e inicios de 2022, el cual ocasionó el gran aumento de nuevos confirmados. 
+1. El mayor pico de contagio se observa a fines de 2021 e inicios de 2022, el cual ocasionó el gran aumento de nuevos confirmados. 
 Salud pública, habitantes y densidad:
-2-	Considerando los tamaños poblacionales de cada país y de acuerdo con nuestros gráficos, Perú es el país con más muertes, seguido por Chile, Argentina, Brasil y Colombia, encontrándose en último lugar México. Chile y Argentina presentan los mayores números de enfermos, seguidos por Brasil, Perú y Colombia, y finalmente México. 
-3-	Brasil se destaca por presentar al máximo número de dosis de vacunas administradas seguido por México. Sin embargo, es importante destacar la diferencia de densidad poblacional entre ambos países, México posee la mitad aproximadamente de habitantes que Brasil, pero su densidad es la mayor de los países seleccionados de Latinoamérica, mientras que Brasil posee una de las menores densidades poblacionales. 
-4-	Chile y Perú presentan el menor número de dosis de vacunas administradas lo cual es una muestra de las políticas de salud pública implementadas por ambos países. 
+2. Considerando los tamaños poblacionales de cada país y de acuerdo con nuestros gráficos, Perú es el país con más muertes, seguido por Chile, Argentina, Brasil y Colombia, encontrándose en último lugar México. Chile y Argentina presentan los mayores números de enfermos, seguidos por Brasil, Perú y Colombia, y finalmente México. 
+3. Brasil se destaca por presentar al máximo número de dosis de vacunas administradas seguido por México. Sin embargo, es importante destacar la diferencia de densidad poblacional entre ambos países, México posee la mitad aproximadamente de habitantes que Brasil, pero su densidad es la mayor de los países seleccionados de Latinoamérica, mientras que Brasil posee una de las menores densidades poblacionales. 
+4. Chile y Perú presentan el menor número de dosis de vacunas administradas lo cual es una muestra de las políticas de salud pública implementadas por ambos países. 
 Mortalidad y comorbilidades: 
-5-	Según el gráfico de mortalidad femenina, masculina e infantil, los hombres en todos los países presentaron una mortalidad mayor, por lo que estarían más susceptibles a morir por COVID-19. 
-6-	En relación con las condiciones de salud preexistentes la diabetes afecta en mayor medida a Brasil y México, mientras que el tabaco a Chile y Argentina. Sin embargo, debemos considerar que Brasil y Chile aparecen entre los países con mayor mortalidad mientras que México y Argentina entre los que poseen una menor mortalidad. Por lo que a nivel país es difícil establecer una correlación entre condiciones preexistentes y mortalidad por COVID
+5. Según el gráfico de mortalidad femenina, masculina e infantil, los hombres en todos los países presentaron una mortalidad mayor, por lo que estarían más susceptibles a morir por COVID-19. 
+6. En relación con las condiciones de salud preexistentes la diabetes afecta en mayor medida a Brasil y México, mientras que el tabaco a Chile y Argentina. Sin embargo, debemos considerar que Brasil y Chile aparecen entre los países con mayor mortalidad mientras que México y Argentina entre los que poseen una menor mortalidad. Por lo que a nivel país es difícil establecer una correlación entre condiciones preexistentes y mortalidad por COVID
 Situación económica: 
-7-	Chile, Argentina y México son los países con el mayor PBI per cápita lo que nos indicaría que el ingreso promedio de los ciudadanos es mejor y que sus mercados podrían presentar una demanda mayor. 
-
+7. Chile, Argentina y México son los países con el mayor PBI per cápita lo que nos indicaría que el ingreso promedio de los ciudadanos es mejor y que sus mercados podrían presentar una demanda mayor. 
