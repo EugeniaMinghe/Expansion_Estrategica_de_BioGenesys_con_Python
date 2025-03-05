@@ -20,11 +20,13 @@ Desarrollo de un estudio que ayudará a la estrategia de expansión de BIOGENESY
 Se trabajó con Python a través de Visual Studio Code (VSC) usando Jupyter Notebooks el cual permitió realizar la conexión con el dataset proporcionado, el análisis exploratorio y la elaboración de gráficos que muestren los resultados de los diferentes análisis, pasando por la limpieza y transformación de los datos. Además, su utilizó el programa Power BI para la creación de un dashboard visualmente atractivo e interactivo con los resultados más destacados de los análisis realizados y los insights encontrados.
 
 <h3 align="center">Conclusiones generales</h3>
-- Correlación entre los casos confirmados y las muertes mensuales, con tres aumentos muy marcados en el primero y muy sutiles en el segundo en esos mismos meses. 
-- No hay información sobre los recuperados para más del 60% de los países seleccionados.
-- Hombres han sido más susceptibles que las mujeres y los niños en todos los países a muerte por COVID-19.
-- Perú es el país con más muertes, seguido por Chile, Argentina, Brasil y Colombia; Chile y Argentina presentan números mayores de enfermos, seguidos por Brasil, Perú y Colombia.
-- Brasil es el país que más dosis de vacunas administró, pero con la menor cantidad de dosis por habitante; México, el siguiente en cantidad de dosis administradas posee también un número parecido a Brasil en dosis por habitante. Argentina continúa en cantidad de dosis administradas, pero está tercero en relación con el número de dosis por habitante; y Colombia ubicado a continuación respecto al número de dosis administradas presenta números entre Brasil y México en cantidad de dosis por habitante. Al final de la cantidad de dosis administradas totales están Perú y Chile, siendo los que más dosis por habitante administraron. 
+
+1. Correlación entre los casos confirmados y las muertes mensuales, con tres aumentos muy marcados en el primero y muy sutiles en el segundo en esos mismos meses.
+2. No hay información sobre los recuperados para más del 60% de los países seleccionados.
+3. Hombres han sido más susceptibles que las mujeres y los niños en todos los países a muerte por COVID-19.
+4. Perú es el país con más muertes, seguido por Chile, Argentina, Brasil y Colombia; Chile y Argentina presentan números mayores de enfermos, seguidos por Brasil, Perú y Colombia.
+5. Brasil es el país que más dosis de vacunas administró, pero con la menor cantidad de dosis por habitante; México, el siguiente en cantidad de dosis administradas posee también un número parecido a Brasil en dosis por habitante. Argentina continúa en cantidad de dosis administradas, pero está tercero en relación con el número de dosis por habitante; y Colombia ubicado a continuación respecto al número de dosis administradas presenta números entre Brasil y México en cantidad de dosis por habitante. Al final de la cantidad de dosis administradas totales están Perú y Chile, siendo los que más dosis por habitante administraron.
+
 
 <h3 align="center">Conclusiones estratégicas</h3>
 Pico de contagio:
