@@ -28,15 +28,19 @@ Se trabajó con Python a través de Visual Studio Code (VSC) usando Jupyter Note
 5. Brasil es el país que más dosis de vacunas administró, pero con la menor cantidad de dosis por habitante; México, el siguiente en cantidad de dosis administradas posee también un número parecido a Brasil en dosis por habitante. Argentina continúa en cantidad de dosis administradas, pero está tercero en relación con el número de dosis por habitante; y Colombia ubicado a continuación respecto al número de dosis administradas presenta números entre Brasil y México en cantidad de dosis por habitante. Al final de la cantidad de dosis administradas totales están Perú y Chile, siendo los que más dosis por habitante administraron.
 
 
-<h3 align="center">Conclusiones estratégicas</h3>
-Pico de contagio:
-1. El mayor pico de contagio se observa a fines de 2021 e inicios de 2022, el cual ocasionó el gran aumento de nuevos confirmados. 
-Salud pública, habitantes y densidad:
-2. Considerando los tamaños poblacionales de cada país y de acuerdo con nuestros gráficos, Perú es el país con más muertes, seguido por Chile, Argentina, Brasil y Colombia, encontrándose en último lugar México. Chile y Argentina presentan los mayores números de enfermos, seguidos por Brasil, Perú y Colombia, y finalmente México. 
-3. Brasil se destaca por presentar al máximo número de dosis de vacunas administradas seguido por México. Sin embargo, es importante destacar la diferencia de densidad poblacional entre ambos países, México posee la mitad aproximadamente de habitantes que Brasil, pero su densidad es la mayor de los países seleccionados de Latinoamérica, mientras que Brasil posee una de las menores densidades poblacionales. 
-4. Chile y Perú presentan el menor número de dosis de vacunas administradas lo cual es una muestra de las políticas de salud pública implementadas por ambos países. 
-Mortalidad y comorbilidades: 
-5. Según el gráfico de mortalidad femenina, masculina e infantil, los hombres en todos los países presentaron una mortalidad mayor, por lo que estarían más susceptibles a morir por COVID-19. 
-6. En relación con las condiciones de salud preexistentes la diabetes afecta en mayor medida a Brasil y México, mientras que el tabaco a Chile y Argentina. Sin embargo, debemos considerar que Brasil y Chile aparecen entre los países con mayor mortalidad mientras que México y Argentina entre los que poseen una menor mortalidad. Por lo que a nivel país es difícil establecer una correlación entre condiciones preexistentes y mortalidad por COVID
-Situación económica: 
-7. Chile, Argentina y México son los países con el mayor PBI per cápita lo que nos indicaría que el ingreso promedio de los ciudadanos es mejor y que sus mercados podrían presentar una demanda mayor. 
+<h3 align="center">Conclusiones estratégicas</h3>  
+
+1. **Pico de contagio:** El mayor pico de contagio se observa a fines de 2021 e inicios de 2022, el cual ocasionó el gran aumento de nuevos confirmados.  
+
+2. **Salud pública, habitantes y densidad:**  
+   - Perú es el país con más muertes, seguido por Chile, Argentina, Brasil y Colombia, encontrándose en último lugar México.  
+   - Chile y Argentina presentan los mayores números de enfermos, seguidos por Brasil, Perú y Colombia, y finalmente México.  
+   - Brasil se destaca por presentar el máximo número de dosis de vacunas administradas, seguido por México. Sin embargo, México posee la mitad de habitantes que Brasil, pero su densidad es la mayor de los países seleccionados de Latinoamérica, mientras que Brasil posee una de las menores densidades poblacionales.  
+   - Chile y Perú presentan el menor número de dosis de vacunas administradas, lo cual es una muestra de las políticas de salud pública implementadas por ambos países.  
+
+3. **Mortalidad y comorbilidades:**  
+   - Según el gráfico de mortalidad femenina, masculina e infantil, los hombres en todos los países presentaron una mortalidad mayor, por lo que estarían más susceptibles a morir por COVID-19.  
+   - En relación con las condiciones de salud preexistentes, la diabetes afecta en mayor medida a Brasil y México, mientras que el tabaco a Chile y Argentina. Sin embargo, a nivel país, es difícil establecer una correlación entre condiciones preexistentes y mortalidad por COVID-19.  
+
+4. **Situación económica:**  
+   - Chile, Argentina y México son los países con el mayor PIB per cápita, lo que indicaría que el ingreso promedio de los ciudadanos es mejor y que sus mercados podrían presentar una demanda mayor.  
